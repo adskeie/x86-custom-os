@@ -6,10 +6,8 @@ This project was developed as a university systems-programming project and demon
 
 ## Demo
 
-Add a screenshot or GIF here after running the OS in QEMU:
-
 ```md
-![Custom OS running in QEMU](screenshots/os-demo.png)
+![Demo](/screenshots/os-demo.png)
 ```
 
 ## Features
