@@ -7,7 +7,7 @@ This project was developed as a university systems-programming project and demon
 ## Demo
 
 ```md
-![Custom OS running in QEMU](https://github.com/adskeie/x86-custom-os/blob/main/screenshots/os-demo.png?raw=true)
+![Custom OS running in QEMU](screenshots/os-demo.png)
 ```
 
 ## Features
