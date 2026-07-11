@@ -1,0 +1,5 @@
+/home/adrian/Documents/advancedos/ass5/build/CMakeFiles/kernel_bin.dir
+/home/adrian/Documents/advancedos/ass5/build/CMakeFiles/iso.dir
+/home/adrian/Documents/advancedos/ass5/build/CMakeFiles/run.dir
+/home/adrian/Documents/advancedos/ass5/build/CMakeFiles/edit_cache.dir
+/home/adrian/Documents/advancedos/ass5/build/CMakeFiles/rebuild_cache.dir
