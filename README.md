@@ -6,9 +6,9 @@ This project was developed as a university systems-programming project and demon
 
 ## Demo
 
-```md
+
 ![Custom OS running in QEMU](screenshots/os-demo.png)
-```
+
 
 ## Features
 
